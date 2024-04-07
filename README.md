@@ -1,1 +1,1 @@
-# CODSOFT-2
+# KFC-Landing-Page
